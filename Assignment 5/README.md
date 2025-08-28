@@ -13,15 +13,20 @@ Dataset 2 Estimated Ground Level: 61.233
 TASK 2:
 Dataset 1 elbow plot
 ![Task 2 Dataset 1 Elbow Plot](Images/task2_elbow_d1.png)
+Looking at the elbow plot, I eyeballed it and chose an eps value of 0.16.
 
 Dataset 2 elbow plot
 ![Task 2 Dataset 2 Elbow Plot](Images/task2_elbow_d2.png)
+Looking at the elbow plot, I eyeballed it and chose an eps value of 0.155.
+
 
 Dataset 1 estimated optimized value for eps: optimal_eps=0.16
 ![Task 2 Dataset 1 DBSCAN](Images/task2_dbscan_d1.png)
+I messed with the eps value until I could see the clearest separation between clusters. 17 clusters seemed to be a good number that allowed enough separation between the trees and the catenary.
 
 Dataset 2 estimated optimized value for eps: optimal_eps=0.155
 ![Task 2 Dataset 2 DBSCAN](Images/task2_dbscan_d2.png)
+I messed with the eps value until I could see the clearest separation between clusters. 13 clusters seemed to be a good number that allowed enough separation between the trees and the catenary.
 
 
 TASK 3:
