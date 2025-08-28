@@ -1,5 +1,4 @@
-Note: 
-Share.ipynb includes the entire Homework.
+Note: Share.ipynb includes the entire Homework.
 I also uploaded 3 separate versions to separate the tasks.
 
 TASK 1:
