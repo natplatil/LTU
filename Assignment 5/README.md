@@ -22,11 +22,13 @@ Looking at the elbow plot, I eyeballed it and chose an eps value of 0.155.
 
 Dataset 1 estimated optimized value for eps: optimal_eps=0.16
 ![Task 2 Dataset 1 DBSCAN](Images/task2_dbscan_d1.png)
-I messed with the eps value until I could see the clearest separation between clusters. 17 clusters seemed to be a good number that allowed enough separation between the trees and the catenary.
+I messed with the eps value until I could see the clearest separation between clusters. I tested eps values around 0.16 and ultimately stuck with 0.16.
+17 clusters seemed to be a good number that allowed enough separation between the trees and the catenary.
 
 Dataset 2 estimated optimized value for eps: optimal_eps=0.155
 ![Task 2 Dataset 2 DBSCAN](Images/task2_dbscan_d2.png)
-I messed with the eps value until I could see the clearest separation between clusters. 13 clusters seemed to be a good number that allowed enough separation between the trees and the catenary.
+I messed with the eps value until I could see the clearest separation between clusters. I tested eps values around 0.16 and ultimately stuck with 0.155.
+13 clusters seemed to be a good number that allowed enough separation between the trees and the catenary.
 
 
 TASK 3:
