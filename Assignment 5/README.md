@@ -1,3 +1,6 @@
+Note: 
+Share.ipynb includes the entire Homework.
+I also uploaded 3 separate versions to separate the tasks.
 
 Dataset 1 Estimated Ground Level: 61.269
 ![Task 1 Dataset 1](task1_d1.png)
